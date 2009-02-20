@@ -223,6 +223,10 @@ Set the application class with the environment variable C<MOJO_APP>.
 
 C<MOJO_RELOAD> is also supported (e. g. C<PerlSetEnv MOJO_RELOAD 1>).
 
+=head1 REPOSITORY
+
+    http://github.com/uwe/apache2-mojo/tree/master
+
 =head1 SEE ALSO
 
 L<Apache2>, L<Mojo>, L<Mojolicious>.

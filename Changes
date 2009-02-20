@@ -1,3 +1,6 @@
+0.005
+  - changed repository to github
+
 0.004 2009-02-17
   - added remote address (needs Mojo 0.9002)
   - fixed FIRSTKEY-bug
